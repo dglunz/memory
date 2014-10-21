@@ -1,6 +1,8 @@
 Deck of Cards
 ======
 
+[If you can memorize a deck of shuffled cards, you can memorize anything.](http://joshuafoer.com/moonwalking-with-einstein/) Here are some strange memory associations to get started:
+
 | Card              | Person                 | Action                                | Object                      |
 | ----------------- | ---------------------- | ------------------------------------- | --------------------------- |
 | **A**:diamonds:   | Morgan Freeman        | narrating                             | the voice of God            |
