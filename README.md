@@ -31,19 +31,19 @@ Deck of Cards
 | **3**:clubs:   | Biggie                | counting stacks of cash on            | a money green leather sofa  |
 | **2**:clubs:   | Randy Newman          | soundtracking                         | Toy Story 2                 |
 |||||
-| **A**:spades:   | Morgan Freeman        | narrating                             | the voice of God            |
-| **K**:spades:   | Brad Pitt             | saving the world from                 | zombies                     |
-| **Q**:spades:   | Angelina Jolie        | hacking                               | the planet                  |
-| **J**:spades:   | Bill Murray           | exploring the ocean in                | a submarine                 |
-| **10**:spades:  | Owen Wilson           | so hot right now                      | Hansel                      |
-| **9**:spades:   | Ben Stiller           | gasoline fighting with                | male models                 |
-| **8**:spades:   | Samuel L Jackson      | complaining about all these mofuckin' | snakes on a plane           |
-| **7**:spades:   | Christopher Walkens   | following a killer into               | hell                        |
-| **6**:spades:   | Jim Carrey            | swimming through                      | existentialism              |
-| **5**:spades:   | Tom Hanks             | falling in love via                   | AOL                         |
-| **4**:spades:   | Jake Gyllenhaal       | doubting your commitment to           | Sparkle Motion              |
-| **3**:spades:   | Robert Downey Jr      | solving crimes with                   | Gay 'Watson' Perry          |
-| **2**:spades:   | Will Smith            | getting jiggy wit'                    | The Fresh Prince of Bel Air |
+| **A**:spades:   | Richard Branson       | flying Virgin into                    | space                       |
+| **K**:spades:   | Barack Obama          | lighting up in                        | the Oval Office             |
+| **Q**:spades:   | Michelle Obama        | curing obesity with                   | her arms                    |
+| **J**:spades:   | Isaac Brown           | throwing a frozen thin mint at        | my front door               |
+| **10**:spades:  | Alan Turing           | defeating nazis with                  | code cracking               |
+| **9**:spades:   | Gandalf               | destroying the ring via               | a giant eagle               |
+| **8**:spades:   | Salvador Dali         | memorably persisting                  | tall elephants              |
+| **7**:spades:   | Douglas Adams         | hitchhiking with                      | a bowl of petunias          |
+| **6**:spades:   | Hades                 | adjusting the temperature in          | the underworld              |
+| **5**:spades:   | John Boyer            | geographically pinpointing            | the Plaid Avenger           |
+| **4**:spades:   | Jack Kerouac          | bumming around with                   | Buddha                      |
+| **3**:spades:   | Sean White            | snowboarding on                       | red snow                    |
+| **2**:spades:   | Kafka                 | morphing into                         | an insect                   |
 |||||
 | **A**:hearts:   | Morgan Freeman        | narrating                             | the voice of God            |
 | **K**:hearts:   | Brad Pitt             | saving the world from                 | zombies                     |
