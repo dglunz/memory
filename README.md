@@ -45,16 +45,16 @@ Deck of Cards
 | **3**:spades:   | Sean White            | snowboarding on                       | red snow                    |
 | **2**:spades:   | Kafka                 | morphing into                         | an insect                   |
 |||||
-| **A**:hearts:   | Morgan Freeman        | narrating                             | the voice of God            |
-| **K**:hearts:   | Brad Pitt             | saving the world from                 | zombies                     |
-| **Q**:hearts:   | Angelina Jolie        | hacking                               | the planet                  |
-| **J**:hearts:   | Bill Murray           | exploring the ocean in                | a submarine                 |
-| **10**:hearts:  | Owen Wilson           | so hot right now                      | Hansel                      |
-| **9**:hearts:   | Ben Stiller           | gasoline fighting with                | male models                 |
-| **8**:hearts:   | Samuel L Jackson      | complaining about all these mofuckin' | snakes on a plane           |
-| **7**:hearts:   | Christopher Walkens   | following a killer into               | hell                        |
-| **6**:hearts:   | Jim Carrey            | swimming through                      | existentialism              |
-| **5**:hearts:   | Tom Hanks             | falling in love via                   | AOL                         |
-| **4**:hearts:   | Jake Gyllenhaal       | doubting your commitment to           | Sparkle Motion              |
-| **3**:hearts:   | Robert Downey Jr      | solving crimes with                   | Gay 'Watson' Perry          |
-| **2**:hearts:   | Will Smith            | getting jiggy wit'                    | The Fresh Prince of Bel Air |
+| **A**:hearts:   | Scarlett Johanson     | romantically downloading              | an operating system         |
+| **K**:hearts:   | Romeo                 | stabbing himself with                 | a rusty dagger              |
+| **Q**:hearts:   | Juliet                | lovingly drinking                     | poison                      |
+| **J**:hearts:   | Natalie Portman       | rapping & dancing like                | black swan                  |
+| **10**:hearts:  | Lights                | playing keytar in                     | Canada                      |
+| **9**:hearts:   | Amy Poehler           | passionately protecting               | parks                       |
+| **8**:hearts:   | Medusa                | brushing her                          | snakes                      |
+| **7**:hearts:   | Taylor Swift          | awkwardly singing                     | love songs                  |
+| **6**:hearts:   | Miley Cyrus           | twerking to                           | Hannah Montana              |
+| **5**:hearts:   | Sarah Palin           | hunting                               | moose                       |
+| **4**:hearts:   | JK Rowling            | writing fiction about                 | Harry Potter                |
+| **3**:hearts:   | Ellen DeGeneres       | just keeps swimming through           | talk shows                  |
+| **2**:hearts:   | Ariel                 | hoarding                              | all the human things        |
